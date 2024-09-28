@@ -29,7 +29,28 @@ My name is Chanya Chumdee [ Yaya ], I'm from Thailand. I'm interested in web des
 - E-mail : ya.chumdee@gmail.com
 
 ## ***Qihong Liu TM#2***
+I'm Liu Qihong(it's hard to pornounce in English, so please just call me Anser) from Hong Kong. [Click here to my Github site!](https://github.com/AnserLiu).
 
+![Marco_Polo](images/Marco_Polo.jpg)
+
+### **Hobbies**
+- Magic trick
+- Drawing
+- Music
+
+### **Likes**
+- Video Games
+- Drawing
+- Magic
+- Game designing
+
+### **Skills**
+- Drawing
+- HTML
+- Orienteering
+
+### **Contact**
+- E-mail : kk13802280722@gmail.com
 
 ## **Contributing**
 1. Fork it
